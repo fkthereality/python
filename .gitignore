@@ -8,7 +8,7 @@
 /tests/geckodriver.log
 
 /venv/
-
+.gitss/
 .idea/
 .DS_Store
 *.iml
@@ -23,7 +23,7 @@ dist/
 build
 .coverage
 geckodriver.log
-/skip-covered/
-/python_2_1/
+skip-covered/
+python_2_1/
 
 
