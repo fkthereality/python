@@ -1,8 +1,12 @@
 /tests/test_python_2_1.py
 /tests/test_eugene_bitrix.py
 /tests/test_ecosia.py
-/tests/__init__.py
+/tests/test_todo_poc1.py
 /tests/.pytest_cache/
+/tests/test_todomvc_poc.py
+/tests/__pycache__
+/tests/geckodriver.log
+
 /venv/
 
 .idea/
@@ -19,6 +23,7 @@ dist/
 build
 .coverage
 geckodriver.log
-skip-covered/
-.python-version
+/skip-covered/
+/python_2_1/
+
 

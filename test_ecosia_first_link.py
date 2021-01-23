@@ -5,7 +5,6 @@ from selene.support.shared.jquery_style import ss
 
 
 def test_search():
-    # ARRANGE
     browser.open("https://www.ecosia.org/")
 
     # ACT
