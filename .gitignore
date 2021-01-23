@@ -6,14 +6,13 @@
 /tests/test_todomvc_poc.py
 /tests/__pycache__
 /tests/geckodriver.log
-
 /venv/
-.gitss/
+*.gitss/
 .idea/
 .DS_Store
 *.iml
-selene.egg-info/
-dist/
+/selene.egg-info/
+/dist/
 *.pyc
 *.pyo
 *.swp
@@ -23,7 +22,8 @@ dist/
 build
 .coverage
 geckodriver.log
-skip-covered/
-python_2_1/
+/skip-covered/
+/python_2_1/
+README.rst
 
 
