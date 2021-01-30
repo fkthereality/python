@@ -1,4 +1,5 @@
 from selene.api import *
+# config.hold_browser_open = True
 
 
 def test_add_toggle_todos():
