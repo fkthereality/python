@@ -1,6 +1,6 @@
 /tests/test_python_2_1.py
 /tests/test_eugene_bitrix.py
-/tests/test_ecosia.py
+/tests/test_ecosia_1.py
 /tests/test_todo_poc1.py
 /tests/.pytest_cache/
 /tests/test_todomvc_poc.py
