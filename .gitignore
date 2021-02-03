@@ -1,1 +1,6 @@
 tests/.pytest_cache
+venv
+tests/else_code.py
+tests/test_todomvc.py
+test-todomvc/.git
+.idea
