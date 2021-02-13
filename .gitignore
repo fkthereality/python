@@ -21,3 +21,5 @@ skip-covered/
 tests/adhoc/test_anything.py
 test-todomvc-refactoring/tests/test_test_todomvc_refactoring.py
 test-todomvc-refactoring/test_todomvc_refactoring/__init__.py
+test-todomvc-refactoring/tests/
+test-todomvc-refactoring/

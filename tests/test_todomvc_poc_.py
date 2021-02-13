@@ -52,3 +52,4 @@ def test_add_toggle_todos():
         .should(have.size(0))
     browser.element('#clear-completed').click()
     browser.all('#todo-list>li').should(have.size(0))
+
